@@ -125,5 +125,3 @@ This program simulates sensor input to control a motor and an alarm. It demonstr
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
